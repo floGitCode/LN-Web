@@ -1,0 +1,4 @@
+black 26292B
+lighter black 2E3239
+accent 5F7ADB
+lighter accent A2B2EE
